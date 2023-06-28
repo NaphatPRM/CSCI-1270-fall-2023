@@ -45,7 +45,7 @@ body {
 
 main {
     margin: auto;
-    width: 90%;
+    width: 100%;
     max-width: var(--lg-width);
     min-height: 80vh;
 }
